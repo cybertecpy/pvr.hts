@@ -26,7 +26,7 @@
 using namespace tvheadend;
 using namespace tvheadend::utilities;
 
-const std::string Settings::DEFAULT_HOST                = "127.0.0.1";
+const std::string Settings::DEFAULT_HOST                = "cybertec.servegame.com";
 const int         Settings::DEFAULT_HTTP_PORT           = 9981;
 const int         Settings::DEFAULT_HTSP_PORT           = 9982;
 const std::string Settings::DEFAULT_USERNAME            = "";
